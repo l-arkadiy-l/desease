@@ -1,4 +1,4 @@
-# desease
+# diseases
 It's my first data scince project wich help to detect dangerous desease on skin.
 
 Input:
